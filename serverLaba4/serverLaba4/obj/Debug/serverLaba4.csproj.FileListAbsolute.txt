@@ -1,0 +1,7 @@
+C:\Users\saida\source\repos\serverLaba4\serverLaba4\bin\Debug\serverLaba4.exe.config
+C:\Users\saida\source\repos\serverLaba4\serverLaba4\bin\Debug\serverLaba4.exe
+C:\Users\saida\source\repos\serverLaba4\serverLaba4\bin\Debug\serverLaba4.pdb
+C:\Users\saida\source\repos\serverLaba4\serverLaba4\obj\Debug\serverLaba4.csprojAssemblyReference.cache
+C:\Users\saida\source\repos\serverLaba4\serverLaba4\obj\Debug\serverLaba4.csproj.CoreCompileInputs.cache
+C:\Users\saida\source\repos\serverLaba4\serverLaba4\obj\Debug\serverLaba4.exe
+C:\Users\saida\source\repos\serverLaba4\serverLaba4\obj\Debug\serverLaba4.pdb

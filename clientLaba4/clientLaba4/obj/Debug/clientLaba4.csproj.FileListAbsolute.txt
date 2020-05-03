@@ -1,0 +1,15 @@
+C:\Users\saida\source\repos\clientLaba4\clientLaba4\bin\Debug\clientLaba4.exe.config
+C:\Users\saida\source\repos\clientLaba4\clientLaba4\bin\Debug\clientLaba4.exe
+C:\Users\saida\source\repos\clientLaba4\clientLaba4\bin\Debug\clientLaba4.pdb
+C:\Users\saida\source\repos\clientLaba4\clientLaba4\bin\Debug\serverLaba4.exe
+C:\Users\saida\source\repos\clientLaba4\clientLaba4\bin\Debug\serverLaba4.pdb
+C:\Users\saida\source\repos\clientLaba4\clientLaba4\bin\Debug\serverLaba4.exe.config
+C:\Users\saida\source\repos\clientLaba4\clientLaba4\obj\Debug\clientLaba4.csprojAssemblyReference.cache
+C:\Users\saida\source\repos\clientLaba4\clientLaba4\obj\Debug\clientLaba4.Form1.resources
+C:\Users\saida\source\repos\clientLaba4\clientLaba4\obj\Debug\clientLaba4.frmAdd.resources
+C:\Users\saida\source\repos\clientLaba4\clientLaba4\obj\Debug\clientLaba4.Properties.Resources.resources
+C:\Users\saida\source\repos\clientLaba4\clientLaba4\obj\Debug\clientLaba4.csproj.GenerateResource.cache
+C:\Users\saida\source\repos\clientLaba4\clientLaba4\obj\Debug\clientLaba4.csproj.CoreCompileInputs.cache
+C:\Users\saida\source\repos\clientLaba4\clientLaba4\obj\Debug\clientLaba4.csproj.CopyComplete
+C:\Users\saida\source\repos\clientLaba4\clientLaba4\obj\Debug\clientLaba4.exe
+C:\Users\saida\source\repos\clientLaba4\clientLaba4\obj\Debug\clientLaba4.pdb
